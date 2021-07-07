@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "28217354933",
+    "firebase_url": "https://skylenses-6e997.firebaseio.com",
+    "project_id": "skylenses-6e997",
+    "storage_bucket": "skylenses-6e997.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28217354933:android:00148b0d06ae4f36736cfc",
+        "android_client_info": {
+          "package_name": "skylenses.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28217354933-osq9qa9jea25s036asspnh5gt5qhn6qh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2JKuKw3pQBtBPPxZUE1VLP1OhuQ0pfq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28217354933-osq9qa9jea25s036asspnh5gt5qhn6qh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
